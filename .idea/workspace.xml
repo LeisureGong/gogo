@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39e08ac5-7068-4e7b-b312-d0f3cce0c334" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1gGT1wO1FvqnX7bS782g4SQLXhy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/simple_rpc" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\GoLand\gogoProject\simple_rpc" />
+      <recent name="D:\Project\GoLand\gogoProject\simple_rpc\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestRPC in rpc_test.go">
+    <configuration name="go build gogoProject/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/simple_rpc/session.go|$PROJECT_DIR$/simple_rpc/session_test.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build myChan.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/learn/myChan.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build myDefer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/learn/myDefer.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRPC in rpc_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$/simple_rpc" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/simple_rpc/rpc_test.go" />
+      <pattern value="^TestRPC$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSession_ReadWrite in gogoProject" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$/simple_rpc" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/simple_rpc/session_test.go" />
+      <pattern value="^TestSession_ReadWrite$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSession_ReadWrite in gogoProject" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$/simple_rpc" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/simple_rpc/session_test.go" />
+      <pattern value="^TestSession_ReadWrite$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSession_ReadWrite in session_test.go" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$/simple_rpc" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/simple_rpc/session_test.go" />
+      <pattern value="^TestSession_ReadWrite$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build myChan.go" />
+      <item itemvalue="Go Build.go build myDefer.go" />
+      <item itemvalue="Go Build.go build gogoProject/" />
+      <item itemvalue="Go Test.TestSession_ReadWrite in session_test.go" />
+      <item itemvalue="Go Test.TestRPC in rpc_test.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestRPC in rpc_test.go" />
+        <item itemvalue="Go Test.TestSession_ReadWrite in gogoProject" />
+        <item itemvalue="Go Test.TestSession_ReadWrite in gogoProject" />
+        <item itemvalue="Go Build.go build gogoProject/" />
+        <item itemvalue="Go Build.go build myDefer.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="193" width="1337" height="1001" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597804952964">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="548" y="193" width="1337" height="1001" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597804952964" />
+    <state x="944" y="388" key="FileChooserDialogImpl" timestamp="1597803090393">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="944" y="388" key="FileChooserDialogImpl/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597803090393" />
+    <state width="2141" height="392" key="GridCell.Tab.0.bottom" timestamp="1597819585455">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2141" height="392" key="GridCell.Tab.0.bottom/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
+    <state width="2141" height="392" key="GridCell.Tab.0.center" timestamp="1597819585455">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2141" height="392" key="GridCell.Tab.0.center/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
+    <state width="2141" height="392" key="GridCell.Tab.0.left" timestamp="1597819585455">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2141" height="392" key="GridCell.Tab.0.left/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
+    <state width="2141" height="392" key="GridCell.Tab.0.right" timestamp="1597819585455">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2141" height="392" key="GridCell.Tab.0.right/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
+    <state x="467" y="154" key="SettingsEditor" timestamp="1597820841115">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="467" y="154" key="SettingsEditor/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597820841115" />
+    <state x="725" y="96" width="743" height="1002" key="find.popup" timestamp="1597803279882">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="725" y="96" width="743" height="1002" key="find.popup/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597803279882" />
+  </component>
+</project>
