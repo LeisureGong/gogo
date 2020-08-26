@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="39e08ac5-7068-4e7b-b312-d0f3cce0c334" name="Default Changelist" comment="" />
+    <list default="true" id="39e08ac5-7068-4e7b-b312-d0f3cce0c334" name="Default Changelist" comment="go相关代码">
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819150937.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153432.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153433.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153453.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153708.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153710.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153712.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153716.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153718.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153722.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153728.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153733.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153735.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153738.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153817.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153820.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153824.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153825.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153840.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153914.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153915.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153918.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819153920.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819154038.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819154042.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.history/simple_rpc/rpc_test_20200819154046.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/channels.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/empty-interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/exercise-stringer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/goroutines.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/interface-values-with-nil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_rpc/rpc_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/simple_rpc/rpc_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,13 +69,21 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gGT1wO1FvqnX7bS782g4SQLXhy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -34,49 +96,45 @@
       <recent name="D:\Project\GoLand\gogoProject\simple_rpc\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestRPC in rpc_test.go">
-    <configuration name="go build gogoProject/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="gogoProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <filePath value="$PROJECT_DIR$/simple_rpc/session.go|$PROJECT_DIR$/simple_rpc/session_test.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build myChan.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build hello.go">
+    <configuration name="go build channels.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gogoProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learn/myChan.go" />
+      <filePath value="$PROJECT_DIR$/learn/channels.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build myDefer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build empty-interface.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gogoProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/learn/myDefer.go" />
+      <filePath value="$PROJECT_DIR$/learn/empty-interface.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestRPC in rpc_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise-stringer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gogoProject" />
-      <working_directory value="$PROJECT_DIR$/simple_rpc" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/learn/exercise-stringer.go" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/simple_rpc/rpc_test.go" />
-      <pattern value="^TestRPC$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSession_ReadWrite in gogoProject" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="go build goroutines.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gogoProject" />
-      <working_directory value="$PROJECT_DIR$/simple_rpc" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/learn/goroutines.go" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/simple_rpc/session_test.go" />
-      <pattern value="^TestSession_ReadWrite$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gogoProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/hello.go" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="TestSession_ReadWrite in gogoProject" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -100,19 +158,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build myChan.go" />
-      <item itemvalue="Go Build.go build myDefer.go" />
-      <item itemvalue="Go Build.go build gogoProject/" />
       <item itemvalue="Go Test.TestSession_ReadWrite in session_test.go" />
-      <item itemvalue="Go Test.TestRPC in rpc_test.go" />
+      <item itemvalue="Go Build.go build empty-interface.go" />
+      <item itemvalue="Go Build.go build exercise-stringer.go" />
+      <item itemvalue="Go Build.go build goroutines.go" />
+      <item itemvalue="Go Build.go build channels.go" />
+      <item itemvalue="Go Build.go build hello.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestRPC in rpc_test.go" />
-        <item itemvalue="Go Test.TestSession_ReadWrite in gogoProject" />
-        <item itemvalue="Go Test.TestSession_ReadWrite in gogoProject" />
-        <item itemvalue="Go Build.go build gogoProject/" />
-        <item itemvalue="Go Build.go build myDefer.go" />
+        <item itemvalue="Go Build.go build hello.go" />
+        <item itemvalue="Go Build.go build channels.go" />
+        <item itemvalue="Go Build.go build goroutines.go" />
+        <item itemvalue="Go Build.go build exercise-stringer.go" />
+        <item itemvalue="Go Build.go build empty-interface.go" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +179,27 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="go相关代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="go相关代码" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1496" y="691" key="#Notifications" timestamp="1597907313040">
+      <screen x="-1920" y="501" width="1536" height="824" />
+    </state>
+    <state x="-1496" y="691" key="#Notifications/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1597907313040" />
     <state x="548" y="193" width="1337" height="1001" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597804952964">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
@@ -129,29 +208,64 @@
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="944" y="388" key="FileChooserDialogImpl/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597803090393" />
-    <state width="2141" height="392" key="GridCell.Tab.0.bottom" timestamp="1597819585455">
-      <screen x="0" y="0" width="2194" height="1194" />
+    <state width="1483" height="219" key="GridCell.Tab.0.bottom" timestamp="1598430912902">
+      <screen x="-1920" y="501" width="1536" height="824" />
     </state>
+    <state width="1483" height="219" key="GridCell.Tab.0.bottom/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598430912902" />
     <state width="2141" height="392" key="GridCell.Tab.0.bottom/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
-    <state width="2141" height="392" key="GridCell.Tab.0.center" timestamp="1597819585455">
-      <screen x="0" y="0" width="2194" height="1194" />
+    <state width="1483" height="219" key="GridCell.Tab.0.center" timestamp="1598430912902">
+      <screen x="-1920" y="501" width="1536" height="824" />
     </state>
+    <state width="1483" height="219" key="GridCell.Tab.0.center/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598430912902" />
     <state width="2141" height="392" key="GridCell.Tab.0.center/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
-    <state width="2141" height="392" key="GridCell.Tab.0.left" timestamp="1597819585455">
-      <screen x="0" y="0" width="2194" height="1194" />
+    <state width="1483" height="219" key="GridCell.Tab.0.left" timestamp="1598430912902">
+      <screen x="-1920" y="501" width="1536" height="824" />
     </state>
+    <state width="1483" height="219" key="GridCell.Tab.0.left/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598430912902" />
     <state width="2141" height="392" key="GridCell.Tab.0.left/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
-    <state width="2141" height="392" key="GridCell.Tab.0.right" timestamp="1597819585455">
-      <screen x="0" y="0" width="2194" height="1194" />
+    <state width="1483" height="219" key="GridCell.Tab.0.right" timestamp="1598430912902">
+      <screen x="-1920" y="501" width="1536" height="824" />
     </state>
+    <state width="1483" height="219" key="GridCell.Tab.0.right/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598430912902" />
     <state width="2141" height="392" key="GridCell.Tab.0.right/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597819585455" />
+    <state width="1483" height="244" key="GridCell.Tab.1.bottom" timestamp="1598424014068">
+      <screen x="-1920" y="501" width="1536" height="824" />
+    </state>
+    <state width="1483" height="244" key="GridCell.Tab.1.bottom/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598424014068" />
+    <state width="1483" height="244" key="GridCell.Tab.1.center" timestamp="1598424014068">
+      <screen x="-1920" y="501" width="1536" height="824" />
+    </state>
+    <state width="1483" height="244" key="GridCell.Tab.1.center/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598424014068" />
+    <state width="1483" height="244" key="GridCell.Tab.1.left" timestamp="1598424014068">
+      <screen x="-1920" y="501" width="1536" height="824" />
+    </state>
+    <state width="1483" height="244" key="GridCell.Tab.1.left/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598424014068" />
+    <state width="1483" height="244" key="GridCell.Tab.1.right" timestamp="1598424014068">
+      <screen x="-1920" y="501" width="1536" height="824" />
+    </state>
+    <state width="1483" height="244" key="GridCell.Tab.1.right/0.0.2194.1194/-1920.501.1536.824@-1920.501.1536.824" timestamp="1598424014068" />
     <state x="467" y="154" key="SettingsEditor" timestamp="1597820841115">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="467" y="154" key="SettingsEditor/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597820841115" />
+    <state x="590" y="264" key="Vcs.Push.Dialog.v2" timestamp="1597821315048">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="590" y="264" key="Vcs.Push.Dialog.v2/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597821315048" />
     <state x="725" y="96" width="743" height="1002" key="find.popup" timestamp="1597803279882">
       <screen x="0" y="0" width="2194" height="1194" />
     </state>
     <state x="725" y="96" width="743" height="1002" key="find.popup/0.0.2194.1194/-1920.501.1536.824@0.0.2194.1194" timestamp="1597803279882" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/learn/interface-values-with-nil.go</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

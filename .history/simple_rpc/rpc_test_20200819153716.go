@@ -34,11 +34,9 @@ func TestRPC(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-
-	// u1, err1 := query(1)
-	// if err != nil {
-	// 	t.Fatal(err1)
-	// }
+	
+	u1, err1 := query(1)
+	if err 
 
 	fmt.Println(u)
 }
