@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"github.com/goinaction/code/chapter2/sample/search"
+	"github.com/LeisureGong/gogo/src/goinaction/sample/search"
 	"log"
 	"net/http"
 	"regexp"

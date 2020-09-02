@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "github.com/goinaction/code/chapter2/sample/matchers"
-	"github.com/goinaction/code/chapter2/sample/search"
+	_ "github.com/LeisureGong/gogo/src/goinaction/sample/matchers"
+	"github.com/LeisureGong/gogo/src/goinaction/sample/search"
 	"log"
 	"os"
 )
