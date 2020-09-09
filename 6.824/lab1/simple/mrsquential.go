@@ -24,9 +24,7 @@ func (a ByKey) Len() int {
 
 // 交换位置
 func (a ByKey) Swap(i, j int) {
-	a[i],
-		a[j] = a[j],
-		a[i]
+	a[i], a[j] = a[j], a[i]
 }
 
 func (a ByKey) Less(i, j int) bool {
