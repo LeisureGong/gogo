@@ -52,7 +52,7 @@ func main() {
 
 		content, err := ioutil.ReadAll(file)
 		if err != nil {
-			log.Fatalf("cannot readd %v", filename)
+			log.Fatalf("cannot read %v", filename)
 		}
 		file.Close()
 		kva := mapf(filename, string(content))
@@ -70,7 +70,7 @@ func main() {
 		for j < len(intermediate) && intermediate[j].Key == intermediate[i].Key {
 			j++
 		}
-		values := []string{}
+		var values []string
 		for k := i; k < j; k++ {
 			values = append(values, intermediate[k].Value)
 		}
